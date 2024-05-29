@@ -1,6 +1,6 @@
 # Welcome to the C++ Concepts Repository! 🏆
 
-This repository is your gateway to mastering C++ concepts, from the fundamental basics to advanced techniques. Whether you're a curious learner eager to explore the intricacies of C++ or a seasoned developer seeking to refine your skills, you've come to the right place. 🏆
+This repository is your gateway to mastering C++ concepts, from the fundamental basics to advanced techniques. Whether you're a curious learner eager to explore the intricacies of C++ or a seasoned developer seeking to refine your skills, you've come to the right place. 
 
 # Table of Contents
 **1. Introduction** <br/>
