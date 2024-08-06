@@ -55,4 +55,4 @@ We welcome contributions from C++ enthusiasts of all levels. Whether you're fixi
 **Effective Modern C++ by Scott Meyers 📚**: A must-read book for mastering modern C++ techniques.<br/>
 **CppCon YouTube Channel 🎥**: Offers a wealth of C++ talks and presentations from the CppCon conference.<br/>
 ## Conclusion
-Whether you're just starting your C++ journey or looking to expand your expertise, this repository is your go-to resource for mastering C++ concepts. Explore, learn, and unleash the full potential of C++ in your projects! Happy coding! 🚀🔥🔥🔥
+Whether you're just starting your C++ journey or looking to expand your expertise, this repository is your go-to resource for mastering C++ concepts. Explore, learn, and unleash the full potential of C++ in your projects! Happy coding! 🚀🔥🔥🔥🔥
